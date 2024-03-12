@@ -14,4 +14,4 @@ Sample Images of Website
 
 $~$
 
-![image description](./src/assets/Image2.png)
+![image description](./src/assets/image2.png)
